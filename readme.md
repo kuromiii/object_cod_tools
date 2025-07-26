@@ -25,8 +25,7 @@ For users simply hoping to import Call of Duty(R) assets, this eliminates the ne
    - the weapon (and potentially parts)
    - the arms
    - **Note**: FBX, CAST and SMD are the most effective formats in my personal experience
-2. Position the pieces as you want using Pose Mode.
-3. Run CoD Tools - EZ Fix using the spacebar menu
+2. Run CoD Tools - EZ Fix using the spacebar menu
    - MW2 and possibly other games may require you to uncheck the "rename bones" checkbox
 
 ## Legal Status
