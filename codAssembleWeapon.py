@@ -104,7 +104,7 @@ class CODAssembleWeapon(bpy.types.Operator):
     bl_label = "CoD Tools - Assemble Weapon Bones"
     bl_options = {'REGISTER', 'UNDO'}
 
-    requireSelected = bpy.props.BoolProperty(
+    requireSelected: bpy.props.BoolProperty(
         name = "Require Selected", 
         description = "Require armature to be selected in order to assemble?", 
         default = False, 
